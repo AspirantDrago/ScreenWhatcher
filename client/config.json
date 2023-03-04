@@ -1,0 +1,31 @@
+{
+  "video": {
+    "fps": 3,
+    "max_ping": 2,
+    "quality": 1,
+    "source": {
+      "name": "screen",
+      "number": null
+    }
+  },
+  "server": {
+    "host": "8c65-89-23-158-32.eu.ngrok.io",
+    "https": false,
+    "port": 80,
+    "token": null
+  },
+  "other": {
+    "statistica_lag_size": 10,
+    "theme": "auto",
+    "scale_factor": 1.1
+  },
+  "keyboard": {
+    "screenshot": "Ctrl+S",
+    "reconnect": "F5",
+    "fullscreen": "F11",
+    "change_theme": "F12",
+    "close": "ESC",
+    "zoom_up": "+",
+    "zoom_down": "-"
+  }
+}
